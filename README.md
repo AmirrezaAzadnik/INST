@@ -1,7 +1,5 @@
 # Smart Farming (IOT)
-<p align="center">
-<a><center><img src="./Figs/Lights_OFF.jpg" alt="Tensorflow" width="700" height="500"/></center></a>
-</p>
+<a align="center"><img src="./Figs/Lights_OFF.jpg" alt="Tensorflow" width="700" height="500"/></a>
 
 Project Description: The Smart Farming (IoT) project focuses on the development of an automated system to monitor and control essential farming parameters, optimizing the growth environment for plants and protecting the farm from external disturbances. The system employs various sensors and actuators connected through an Arduino-based microcontroller to enhance farm management efficiency.
 
@@ -15,8 +13,7 @@ Light Management: LEDs are used to supplement natural light to ensure optimal pl
 
 This IoT-enabled smart farming solution automates critical tasks, ensuring better resource utilization and crop protection. It is designed to be an efficient, scalable, and sustainable approach to modern agriculture.
 
-<p align="center">
-<a><center><img src="./Figs/Lights_ON.jpg" alt="Tensorflow" width="700" height="500"/></center></a>
-</p>
+
+<a align="center"><img src="./Figs/Lights_ON.jpg" alt="Tensorflow" width="700" height="500"/></a>
 
 
